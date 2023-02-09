@@ -63,7 +63,7 @@
     position: absolute;
     justify-content: center;
     left: 24%;
-    gap: 2rem;
+    gap: 3rem;
     color: white;
     font-family: DM Sans;
 }
@@ -75,7 +75,7 @@
 }
 .searchBar{
     position: absolute;
-    left: 70%;
+    left: 68%;
     top:2.7rem;
     border-radius: 25px;
 }
@@ -93,16 +93,16 @@
 .searchBar img{
     position: absolute;
     top: 0.6rem;
-    left: 85%;
+    left: 80%;
     width: 15px;
 }
 .lines img{
     width: 50px;
 }
 .more img{
-    position: fixed;
+    /* position: fixed; */
     top: 1.5rem;
-    left: 105%;
+    left: 90%;
     width: 8px;
 }
 .textt{
